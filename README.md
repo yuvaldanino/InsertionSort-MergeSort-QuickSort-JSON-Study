@@ -14,3 +14,10 @@
   	  	- A JSON object with the the mismatching locations and their values.
   	  	- A JSON object with the array size, name, and number of samples in files 1 and 2.
   	  	- A JSON object with the value of samples with conflicting results. 
+
+- Program 3:
+	- Takes in JSON file that represents a collection of arrays to be sorted and runs INSERTIONSORT, MERGESORT, and QUICKSORT on the samples.
+ 	- The Program returns:
+    		- These statistics about InsertionSort, MergeSort, and QuickSort:
+    			- Running Time
+    - Number of Comparisons 
