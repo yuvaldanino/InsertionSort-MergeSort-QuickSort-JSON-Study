@@ -18,7 +18,7 @@
 - Program 3:
 	- Takes in JSON file that represents a collection of arrays to be sorted and runs INSERTIONSORT, MERGESORT, and QUICKSORT on the samples.
  	- The Program returns:
-    		- These statistics about InsertionSort, MergeSort, and QuickSort in CSV formatt:
+  - These statistics about InsertionSort, MergeSort, and QuickSort in CSV formatt:
  
 
 
