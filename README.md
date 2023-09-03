@@ -26,7 +26,7 @@
 
   - These statistics about InsertionSort, MergeSort, and QuickSort in CSV formatt:
     	- These statistics about InsertionSort, MergeSort, and QuickSort in CSV formatt:
-    			- Running Time
+    			- Running Time 
     - Number of Comparisons
     - Number of memory accesses
       
